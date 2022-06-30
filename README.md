@@ -1,11 +1,14 @@
 # Travelocity Clone
 
 This is the clone of the Travelocity website. Travelocity is an online travel agency. From this website, users can book a hotel room, flights, cars, etc. across the world.
-<br/><br/>
 
 **To see the live site click the below link.**
 
 https://travelocity-cloned.vercel.app/
+
+**To see the Demo Video of Website click the below link.**
+
+https://drive.google.com/file/d/1cne06JS_31IRoZFvgKtEKnhtZBVrnKZp/view?usp=sharing
 
 ## Built with
 <ul>
